@@ -5,3 +5,6 @@
 	1 º Primeira Insercao.
 
 	Aprendi. Muito show.
+
+# Aprendendo sobre diff
+	Antes de dar add ou commit
