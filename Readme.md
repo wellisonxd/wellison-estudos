@@ -8,3 +8,6 @@
 
 # Aprendendo sobre diff
 	Antes de dar add ou commit
+
+
+# Aprendendo a dar push
